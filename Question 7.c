@@ -2,7 +2,7 @@
 
 int main() {
     // Write a C program that converts kilometres per hour to miles per hour. (1 KM = 0.621371 M)
-    //Vandana chaturvedi 
+    //shrashti
     float kmPerHour, milesPerHour;
     printf("Input kilometres per hour: ");
     scanf("%f", &kmPerHour);
