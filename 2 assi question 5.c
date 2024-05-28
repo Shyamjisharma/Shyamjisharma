@@ -3,7 +3,7 @@
 
 int vowelConsonant() {
     // 5. Create a program that takes a single character as input and determines whether it is a vowel or a consonant.
-    // Vandana chaturvedi 
+    //shrashti
     char ch;
     printf("Enter a character: ");
     scanf(" %c", &ch);
