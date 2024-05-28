@@ -2,7 +2,7 @@
 
 int averageOfThree() {
     // 6. Write a program to calculate the average of three integers. Numbers are given by the user.
-    // Vandana chaturvedi 
+    // shrashti
     int num1, num2, num3;
     printf("Enter three numbers: ");
     scanf("%d %d %d", &num1, &num2, &num3);
