@@ -2,7 +2,7 @@
 
 int temperatureConverter() {
     // 15. Temperature Converter
-    // Vandana chaturvedi 
+    // shrashti
     float temperature;
     char scale;
     
