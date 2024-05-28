@@ -2,7 +2,7 @@
 
 int middleNumberFinder() {
     // 17. Middle Number Finder
-    // Vandana chaturvedi 
+    // shrashti
     int num1, num2, num3;
     
     printf("Enter three numbers: ");
