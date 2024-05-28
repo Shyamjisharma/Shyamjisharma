@@ -2,7 +2,7 @@
 
 int volumeOfCuboid() {
     // 9. Write a program to calculate the volume of a cuboid.
-    // Vandana chaturvedi 
+    // shrashti
     float length, width, height;
     printf("Enter length, width, and height of the cuboid: ");
     scanf("%f %f %f", &length, &width, &height);
