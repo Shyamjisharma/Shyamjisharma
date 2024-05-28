@@ -3,7 +3,7 @@
 
 int main() {
     // Print "Hello KGI !!" with double quotes.
-    //Vandana chaturvedi 
+    //shrashti
     printf("\"Hello KGI !!\"\n");
     return 0;
 }
