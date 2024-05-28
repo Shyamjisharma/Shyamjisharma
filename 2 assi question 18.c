@@ -2,7 +2,7 @@
 
 int monthDaysCalculator() {
     // 18. Month Days Calculator
-    // Vandana chaturvedi 
+    // shrashti
     int month, year, days;
     
     printf("Enter month (1-12): ");
