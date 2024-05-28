@@ -2,7 +2,7 @@
 
 int gradeCalculator() {
     // 12. Grade Calculator
-    // Vandana chaturvedi 
+    //shrashti 
     int score;
     printf("Enter the student's score (0-100): ");
     scanf("%d", &score);
