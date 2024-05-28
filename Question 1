@@ -2,7 +2,7 @@
 
 int main() {
     // Print "Hello KGI !!" on the console window.
-    //vandanaChaturvedi
+    //shrashti
     printf("Hello KGI !!\n");
     return 0;
 }
