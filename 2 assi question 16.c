@@ -2,7 +2,7 @@
 
 int leapYearFinder() {
     // 16. Leap Year Finder
-    // Vandana chaturvedi 
+    // shrashti
     int startYear, endYear;
     
     printf("Enter start year: ");
