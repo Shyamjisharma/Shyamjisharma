@@ -2,7 +2,7 @@
 
 int main() {
     // WAP to print sum of two numbers. Numbers are taken by user.
-    //Vandana chaturvedi 
+    //shrashti
     int num1, num2;
     printf("Enter first number: ");
     scanf("%d", &num1);
