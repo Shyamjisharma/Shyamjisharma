@@ -2,7 +2,7 @@
 
 int largestNumberFinder() {
     // 19. Largest Number Finder
-    // Vandana chaturvedi 
+    // shrashti
     int num1, num2, num3, num4;
     
     printf("Enter four numbers: ");
