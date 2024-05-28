@@ -2,7 +2,7 @@
 
 int main() {
     // WAP in C that takes minutes as input, and display the total number of hours and minutes in (HH : MM) format.
-    //Vandana chaturvedi 
+    //shrashti 
     int totalMinutes, hours, minutes;
     printf("Input total minutes: ");
     scanf("%d", &totalMinutes);
