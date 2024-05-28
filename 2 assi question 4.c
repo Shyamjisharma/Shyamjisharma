@@ -2,7 +2,7 @@
 
 int positiveNegativeZero() {
     // 4. Develop a program that reads a number from the user and prints whether it is positive, negative, or zero.
-    // Vandana chaturvedi 
+    // shrashti
     int num;
     printf("Enter a number: ");
     scanf("%d", &num);
