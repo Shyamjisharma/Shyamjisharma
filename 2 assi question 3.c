@@ -2,7 +2,7 @@
 
 int largestNumber() {
     // 3. Write a program that takes three numbers as input and outputs the largest among them. Use conditional statements to compare the values.
-    // Vandana chaturvedi 
+    // shrashti
     int num1, num2, num3;
     printf("Enter three numbers: ");
     scanf("%d %d %d", &num1, &num2, &num3);
