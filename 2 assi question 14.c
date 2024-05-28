@@ -2,7 +2,7 @@
 
 int triangleClassifier() {
     // 14. Triangle Classifier
-    // Vandana chaturvedi 
+    // shrashti
     int side1, side2, side3;
     printf("Enter the lengths of three sides of a triangle: ");
     scanf("%d %d %d", &side1, &side2, &side3);
