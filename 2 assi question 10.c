@@ -2,7 +2,7 @@
 
 int asciiCodes() {
     // 10. Write a program to input three characters from the user and display characters with their corresponding ASCII codes.
-    // Vandana chaturvedi 
+    // shrashti 
     char ch1, ch2, ch3;
     printf("Enter three characters: ");
     scanf(" %c %c %c", &ch1, &ch2, &ch3);
