@@ -2,7 +2,7 @@
 
 int dayOfTheWeekPrinter() {
     // 20. Day of the Week Printer
-    // Vandana chaturvedi 
+    // shrashti
     int day;
     
     printf("Enter a number (1-7) representing the day of the week: ");
