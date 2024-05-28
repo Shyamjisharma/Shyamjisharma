@@ -3,7 +3,7 @@
 
 int divisibilityChecker() {
     // 13. Divisibility Checker
-    // Vandana chaturvedi 
+    // shrashti 
     int num1, num2;
     printf("Enter two integers: ");
     scanf("%d %d", &num1, &num2);
