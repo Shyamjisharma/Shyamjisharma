@@ -3,7 +3,7 @@
 
 int circumferenceOfCircle() {
     // 7. Write a program to calculate the circumference of a circle.
-    // Vandana chaturvedi 
+    // shrashti
     float radius;
     printf("Enter the radius of the circle: ");
     scanf("%f", &radius);
